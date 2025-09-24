@@ -15,6 +15,6 @@
 </ul>
 
 
-<h2>Find me around the web 🌏:</h2>
+<h2>GitHub Stats:</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haikalsamari&layout=compact&langs_count=4)
