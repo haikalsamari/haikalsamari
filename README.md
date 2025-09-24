@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Haikal 👋🏽 🧑🏽‍💻</h1>
+<h1 align="left">Hi, I'm Haikal 🧑🏽‍💻</h1>
 
 <p>
   I'm a software engineer who enjoys building things that are hopefully useful... and sometimes just for fun (or completely useless, but hey, I learned something 😆). It all started back in 2020 after finishing 
@@ -8,13 +8,13 @@
   Spring Boot Java, and Flutter. That curiosity and interest has eventually helped me land my first job as a programmer at one of the Big Four companies in Malaysia.
 </p>
 
-<h2>Find me around the web 🌏:</h2>
+<h2>Let's connect with me</h2>
 <ul>
   <li>See my portfolio at <a href="https://haikalsamari.github.io">Portfolio</a></li>
   <li>Sharing my updates on <a href="https://www.linkedin.com/in/haikalsamari/">LinkedIn</a></li>
 </ul>
 
 
-<h2>GitHub Stats:</h2>
+<h2>GitHub Stats</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haikalsamari&layout=compact&langs_count=4)
