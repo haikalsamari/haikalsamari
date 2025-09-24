@@ -14,5 +14,7 @@
   <li>Sharing my updates on <a href="https://www.linkedin.com/in/haikalsamari/">LinkedIn</a></li>
 </ul>
 
-<h2>GitHub Stats:</h2>
+
+<h2>Find me around the web 🌏:</h2>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haikalsamari&layout=compact&langs_count=4)
