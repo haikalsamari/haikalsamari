@@ -13,8 +13,3 @@
   <li>See my portfolio at <a href="https://haikalsamari.github.io">Portfolio</a></li>
   <li>Sharing my updates on <a href="https://www.linkedin.com/in/haikalsamari/">LinkedIn</a></li>
 </ul>
-
-
-<h2>GitHub Stats</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haikalsamari&layout=compact&langs_count=4)
